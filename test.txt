@@ -1,2 +1,3 @@
 ClickUp_test5
 コミットがClickUpで追跡できるか確認
+SourcetreeからClickupのタスク変更(TO DO → In Progress)
