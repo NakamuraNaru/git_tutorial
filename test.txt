@@ -1,1 +1,3 @@
 Shared role確認
+
+ステータス変更(IN PROGRESS　→ COMPLETE)
