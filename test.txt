@@ -1,0 +1,7 @@
+ClickUp_test5
+コミットがClickUpで追跡できるか確認
+SourcetreeからClickupのタスク変更(TO DO → In Progress)
+SourcetreeからClickupのタスク変更(In Progress → TO DO)
+SourcetreeからClickupのタスク変更(TO DO → 存在しないステータスに変更)
+SourcetreeからClickupのタスク変更(TO DO → In Progress)
+SourcetreeからClickupのタスク変更(COMPLETE → PENDING)
